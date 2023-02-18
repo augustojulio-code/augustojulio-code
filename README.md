@@ -21,8 +21,7 @@
   
    ### You can find me and the project here !
    <div>
-  <a href="https://github.com/augustojulio-code/E_Libras_v1.0"><img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e475ugpwrqi5abxfvhx782j1jurqyj2p9p5r6fk0cps&rid=giphy.gif&ct=s" width=50></a>  <a href="https://www.linkedin.com/in/julio-augusto-a99308119/"><img src="https://media1.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e475wvxroh7lso1o43rzmla6dixesq4ozeuow979u1j&rid=giphy.gif&ct=s" width=50>
-  
+  <a href="https://github.com/augustojulio-code/E_Libras_v1.0"><img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e475ugpwrqi5abxfvhx782j1jurqyj2p9p5r6fk0cps&rid=giphy.gif&ct=s" width=50></a>  <a href="https://www.linkedin.com/in/julio-augusto-a99308119/"><img src="https://media1.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e475wvxroh7lso1o43rzmla6dixesq4ozeuow979u1j&rid=giphy.gif&ct=s" width=50> 
   </a></div>
   
 
