@@ -2,7 +2,6 @@
   Hello there, i'm Julio from Brazil <img src="https://media3.giphy.com/media/xgC0dqgNE2b7KvH0W0/giphy.gif?cid=ecf05e47u1sjnmtiaric1vo5exkbd8rs9a6n43x50vots9jc&rid=giphy.gif&ct=s" width=90></h2>
   
   <h4> I'm Java Dev.<br>
-  I'm 29yo<br>   
   I've been studying programming since 2018<br>
   I am currently finishing a degree in technology<br><br>
   I'm currently working on a project for graduation called "e-libras" which is a sign language e-learning using gamification concepts to propose people's engagement in learning.</h4>
