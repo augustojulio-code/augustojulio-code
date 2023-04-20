@@ -8,7 +8,6 @@
   
  
   
-  
   <h4>I have experience with object-oriented languages, mobile development,web development and cloud computing</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
