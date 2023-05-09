@@ -14,13 +14,12 @@
 </div>
   
   <h4>I have experience with object-oriented languages, mobile development,web development and cloud computing</h4>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=microsoft&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazon"/> 
-  </p>
+  
+  * Java Springboot
+  * C#
+  * MySQL
+  * MongoDB
+  * AWS
   
    ### You can find me on linkedin!
    <div>
