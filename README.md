@@ -15,11 +15,11 @@
   
   <h4>I have experience with object-oriented languages, mobile development,web development and cloud computing</h4>
   
-  * Java Springboot
-  * C#
-  * MySQL
-  * MongoDB
-  * AWS
+  * #### Java Springboot
+  * #### C#
+  * #### MySQL
+  * #### MongoDB
+  * #### AWS
   
    ### You can find me on linkedin!
    <div>
