@@ -4,15 +4,6 @@
   <h4> I'm Java Dev.<br>
   I've been studying programming since 2018<br>
  </h4>
-  
- <div align="left">
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=augustojulio-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-   <div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojulio-code&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
   <h4>I have experience with object-oriented languages, mobile development,web development and cloud computing</h4>
   
   * #### Java Springboot
@@ -20,6 +11,11 @@
   * #### MySQL
   * #### MongoDB
   * #### AWS
+
+
+<div align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojulio-code&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
    ### You can find me on linkedin!
    <div>
