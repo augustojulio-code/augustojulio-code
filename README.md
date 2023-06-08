@@ -14,21 +14,35 @@
     planning and management of IT projects and proof of concept solutions.
   
   ## Programming languages and tools
-  * Java Springboot
+  * Java 
+  * Spring framework
   * C#
+  * JavaScript
+  * React Native
+  * API REST
+  * AWS
+  * Azure 
+  * MSSQL Server
   * MySQL
   * MongoDB
-  * AWS
-
-
-<div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojulio-code&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  * Firebase
+  * Visual studio code
+  * Android Studio
+  * Postman
+  * Insomnia
+  * Git
+  * Github
+  * MS Visio
+  * StarUML
+  * AzureDevOp
   
-   ### You can find me on linkedin!
-   <div>
-  <a href="https://www.linkedin.com/in/julio-augusto-a99308119/"><img src="https://media1.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e475wvxroh7lso1o43rzmla6dixesq4ozeuow979u1j&rid=giphy.gif&ct=s" width=50> 
-  </a></div>
+   ### You can find me on linkedin!<a href="https://www.linkedin.com/in/julio-augusto-a99308119/"><img src="https://media1.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e475wvxroh7lso1o43rzmla6dixesq4ozeuow979u1j&rid=giphy.gif&ct=s" width=50> 
+  </a>
+   
+  
+  <div align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojulio-code&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
   
 
 
