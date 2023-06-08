@@ -1,16 +1,24 @@
-<h2 align="left"> 
-  Hello there, i'm Julio from Brazil <img src="https://media3.giphy.com/media/xgC0dqgNE2b7KvH0W0/giphy.gif?cid=ecf05e47u1sjnmtiaric1vo5exkbd8rs9a6n43x50vots9jc&rid=giphy.gif&ct=s" width=90></h2>
+
+  ## Hello there, i'm Julio Augusto
   
-  <h4> I'm Java Dev.<br>
-  I've been studying programming since 2018<br>
- </h4>
-  <h4>I have experience with object-oriented languages, mobile development,web development and cloud computing</h4>
+  I'm Java Dev,i've been studying programming since 2018<br>
+  with a lot of experience in object-oriented programming,<br>
+  Java, UML, SQL and NoSQL databases.
+
+## About me
+  * I currently work as a freelance developer<br>
+    on small spring framework projects developing rest apis,<br> 
+    java EE MVC design pattern and UML modeling.<br>
+    
+  * I worked for a large bank with analysis and requirements gathering,<br> 
+    planning and management of IT projects and proof of concept solutions.
   
-  * #### Java Springboot
-  * #### C#
-  * #### MySQL
-  * #### MongoDB
-  * #### AWS
+  ## Programming languages and tools
+  * Java Springboot
+  * C#
+  * MySQL
+  * MongoDB
+  * AWS
 
 
 <div align="left">
