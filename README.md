@@ -32,6 +32,8 @@
   * Insomnia
   * Git
   * Github
+  * Jira
+  * Miro
   * MS Visio
   * StarUML
   * AzureDevOp
