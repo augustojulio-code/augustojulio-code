@@ -30,6 +30,7 @@
   * Android Studio
   * Postman
   * Insomnia
+  * Selenium
   * Git
   * Github
   * Jira
