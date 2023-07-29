@@ -3,7 +3,7 @@
   
   I'm Java Dev,i've been studying programming since 2018<br>
   with a lot of experience in object-oriented programming,<br>
-  Java, UML, SQL and NoSQL databases.
+  Java, UML, SQL, NoSQL databases and software engineering.
 
 ## About me
   * I currently work as a freelance developer<br>
@@ -16,8 +16,6 @@
   ## Programming languages and tools
   * Java 
   * Spring framework
-  * C#
-  * JavaScript
   * React Native
   * Maven
   * API REST
