@@ -5,6 +5,12 @@
   with a lot of experience in object-oriented programming,<br>
   Java, UML, SQL, NoSQL databases and software engineering.
 
+  I am currently a Java back-end developer, 
+  working on the development of REST APIs with spring framework,<br> 
+  SQL database modeling and software engineering, but I have also<br> 
+  worked 2 years as a freelancer developing, designing and testing<br> 
+  Java solutions for android between 2018 and 2021 .
+
 ## About me
   * I currently work as a freelance developer<br>
     on small spring framework projects developing rest apis,<br> 
