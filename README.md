@@ -5,11 +5,16 @@
   with a lot of experience in object-oriented programming,<br>
   Java, UML, SQL, NoSQL databases and software engineering.
 
-  I am currently a Java back-end developer, 
+  I am currently a Java back-end developer, <br> 
   working on the development of REST APIs with spring framework,<br> 
   SQL database modeling and software engineering, but I have also<br> 
   worked 2 years as a freelancer developing, designing and testing<br> 
-  Java solutions for android between 2018 and 2021 .
+  Java solutions for android between 2018 and 2021.
+
+  I already worked in a test team at Bradesco bank,<br> 
+  where I worked with requirements gathering and analysis,<br> 
+  software testing, specification of IT projects,<br> 
+  technical elaboration of requirements and proofs of concept.<br>
 
 ## About me
   * I currently work as a freelance developer<br>
