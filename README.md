@@ -44,7 +44,6 @@
   * Git
   * Github
   * Jira
-  * Miro
   * MS Visio
   * AzureDevOp
   
