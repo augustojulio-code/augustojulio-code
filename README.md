@@ -22,7 +22,7 @@
     java EE MVC design pattern and UML modeling.<br>
     
   * I worked for a large bank with analysis and requirements gathering,<br> 
-    planning and management of IT projects and proof of concept and test of solutions.
+    planning and management of IT projects and proof of concept and software testing.
   
   ## Programming languages and tools
   * Java 
