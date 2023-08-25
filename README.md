@@ -17,8 +17,9 @@
   technical elaboration of requirements and proofs of concept.<br>
 
 ## About me
-  * I currently work as a freelance developer<br>
-    on small spring framework projects developing rest apis,<br> 
+  * I currently as QA developing solutions and automating tests<br>
+    and work as a freelance developer on small spring<br>
+    framework projects developing rest apis,<br> 
     java EE MVC design pattern and UML modeling.<br>
     
   * I worked for a large bank with analysis and requirements gathering,<br> 
