@@ -1,7 +1,7 @@
 
   ## Hello there, i'm Julio Augusto
   
-  I'm Java Dev,i've been studying programming since 2018<br>
+  I'm Java Dev and QA,i've been studying programming since 2018<br>
   with a lot of experience in object-oriented programming,<br>
   Java, UML, SQL, NoSQL databases and software engineering.
 
