@@ -25,11 +25,9 @@
   * MSSQL Server
   * MySQL
   * MongoDB
-  * Firebase
   * Visual studio code
   * Android Studio
   * Postman
-  * Insomnia
   * Selenium
   * Git
   * Github
