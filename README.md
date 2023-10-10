@@ -6,7 +6,7 @@
   Java, UML, SQL, NoSQL databases and software engineering.
 
 ## About me
-  * I currently as QA developing solutions and automating tests<br>
+  * I currently as QA developing case tests and automating tests<br>
     and work as a freelance developer on small spring<br>
     framework projects developing rest apis,<br> 
     java EE MVC design pattern and UML modeling.<br>
