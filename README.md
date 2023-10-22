@@ -26,9 +26,9 @@
   * MySQL
   * MongoDB
   * Visual studio code
-  * Android Studio
   * Postman
   * Selenium
+  * Cypress
   * Git
   * Github
   * AzureDevOp
