@@ -3,13 +3,13 @@
   
   I'm Java Dev and QA,i've been studying programming since 2018<br>
   with a lot of experience in object-oriented programming,<br>
-  Java, UML, SQL, NoSQL databases and software engineering.
+  Java,databases, software engineering functional testing, TDD and BDD .
 
 ## About me
-  * I currently as QA developing case tests and automating tests<br>
-    and work as a freelance developer on small spring<br>
+  * I currently as QA developing case tests BDD, functional test<br>
+    and work as a freelance developer on spring<br>
     framework projects developing rest apis,<br> 
-    java EE MVC design pattern and UML modeling.<br>
+    and software engenineering.<br>
     
   * I worked for a large bank with analysis and requirements gathering,<br> 
     planning and management of IT projects, proof of concept and software testing.
