@@ -19,19 +19,16 @@
   * Spring framework
   * React Native
   * Maven
-  * API REST
   * AWS
   * Azure 
   * MSSQL Server
   * MySQL
   * MongoDB
-  * Visual studio code
   * Postman
   * Selenium
   * Cypress
   * Git
   * Github
-  * AzureDevOp
   * Jira
   * Octane
   
