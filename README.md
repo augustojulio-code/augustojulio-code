@@ -9,20 +9,19 @@
   * I currently as QA developing case tests BDD, functional test<br>
     and work as a freelance developer on spring<br>
     framework projects developing rest apis,<br> 
-    and software engineering.<br>
+    ,software engineering and CICD.<br>
     
   * I worked for a large bank with analysis and requirements gathering,<br> 
     planning and management of IT projects, proof of concept and software testing.
   
   ## Programming languages and tools
-  * Java 
-  * Spring framework
-  * React Native
-  * Maven
+  * Java
+  * C#
   * AWS
-  * Azure 
+  * Azure
+  * CICD
   * MSSQL Server
-  * MySQL
+  * PostgreSQL
   * MongoDB
   * Postman
   * Selenium
